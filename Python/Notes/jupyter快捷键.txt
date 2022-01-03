@@ -1,0 +1,8 @@
+#   快捷键 ，jupyter，pycharm都用ctrl+/，#表示注释内容
+#   jupyter执行的快捷键：   
+        #   ctrl+enter 执行本cell
+        #   shift+enter 执行本cell并移动到下面一个cell
+        #   Alt+enter 执行本cell并在下面创建一个cell，并且移动到新创建的cell里面
+
+#  jupyter切换到markdown快捷键
+    # 命令行模式下按下m切换到markdown
